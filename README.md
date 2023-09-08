@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on cleaning up code. Clean code creates a clear mind!
+
 <!--
 **atomi/atomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
