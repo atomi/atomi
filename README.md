@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌵 Nothing serious.
+- VSCode
 
 <!--
 **atomi/atomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
