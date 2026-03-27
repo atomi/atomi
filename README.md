@@ -1,20 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm atomi
 
-- 🌵 Nothing serious.
-- VSCode
+- 🌵 **Nothing serious.** Just exploring, open-source hacking, and building things.
+- 💻 My editor of choice is **VSCode**, and I've contributed tools for it like [vscode-quicktemplate](https://github.com/atomi/vscode-quicktemplate).
 
-<!--
-**atomi/atomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 What I'm up to:
+- Working on projects across different ecosystems like Docker (`cgit-docker`) and PHP (`seblucas-cops`).
+- Exploring Go and web templates (Quicktemplate).
+- Always learning and tinkering with new tech.
 
-Here are some ideas to get you started:
+#### 📫 Reach out or explore my links:
+- 🌐 Blog: [atomi.github.io](https://atomi.github.io/)
+- 📍 Location: Southern California Megaregion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+#### ⚡ Fun Fact:
+I've been on GitHub since 2009! 👴💻
