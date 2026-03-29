@@ -9,6 +9,7 @@
 #### 📫 Reach out or explore my links:
 - 🌐 Blog: [atomi.github.io](https://atomi.github.io/)
 - 📍 Location: Southern California Megaregion
+- 🐘 Mastodon: [@atomi@mastodon.social](https://mastodon.social/@atomi)
 
 #### ⚡ Fun Fact:
 I've been on GitHub since 2009! 👴💻
